@@ -1,2 +1,10 @@
 # task-time-tracker
-Windows Desktop App and Real-Time Spent Tracker
+To be able to determine which Windows desktop app is active and track time spent in real-time.
+
+Dependencies:
+selenium
+
+Windows Depencies:
+pywin32
+python-dateutil
+uiautomation
